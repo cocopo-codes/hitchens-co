@@ -1,6 +1,8 @@
 .site-navigation {
   margin-top: 2rem;
+  margin-bottom: 1.5rem;
   padding: 0 1rem;
+  text-transform: lowercase;
   &:hover,
   &:focus-within {
     a {
@@ -19,7 +21,6 @@
 .site-navigation li {
   list-style: none;
   font-size: .875em;
-  font-variant: small-caps;
   margin: 0;
   &.active a {
     text-decoration: underline;
