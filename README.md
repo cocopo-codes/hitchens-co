@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Hitchens"
+title: "Hitchens (Edited by Corissa)"
 ---
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com) and edited by Corissa Haury.
 
 ![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
 
