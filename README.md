@@ -7,11 +7,11 @@ An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh
 
 ## Quick Start
 
-Check out the original instructions at [Pay Dryburgh's repository](https://github.com/patdryburgh/hitchens/);
+Check out the original instructions at [Pay Dryburgh's repository](https://github.com/patdryburgh/hitchens/).
 
 ## Manual Installation
 
-If you've already created your Jekyll site or are comfortable with the command line, you can add this line to your Jekyll site's `Gemfile`:
+If you've already created your Jekyll site and are comfortable with the command line, you can add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
 gem 'corissawex-hitchens-theme', '~> 0.1.0'
