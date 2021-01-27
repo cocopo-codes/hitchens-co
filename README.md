@@ -1,7 +1,5 @@
----
-layout: page
-title: "Hitchens (Edited by Corissa)"
----
+## Hitchens-Co 
+(Hitchens theme, edited by Corissa)
 
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com) and edited by Corissa Haury.
 
