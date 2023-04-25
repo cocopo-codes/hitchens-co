@@ -1,7 +1,7 @@
 ## Hitchens-Co 
-(Hitchens theme, edited by Corissa)
+(Hitchens theme, edited by Coco)
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com) and edited by Corissa Haury.
+An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com) and edited by Coco Poley.
 
 ## Quick Start
 
@@ -18,7 +18,7 @@ gem 'cocopo-codes-hitchens-theme', '~> 0.1.0'
 And add the following lines to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: corissawex-hitchens-theme
+theme: cocopo-codes-hitchens-theme
 ```
 
 Depending on your [site's configuration](https://jekyllrb.com/docs/configuration/options/), you may also need to add:
@@ -33,7 +33,7 @@ And then on the command line, execute:
 
 Or install the theme yourself as:
 
-    $ gem install gem corissawex-hitchens-theme
+    $ gem install gem cocopo-codes-hitchens-theme
 
 ## License
 
