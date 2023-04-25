@@ -12,7 +12,7 @@ Check out the original instructions at [Pay Dryburgh's repository](https://githu
 If you've already created your Jekyll site and are comfortable with the command line, you can add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem 'corissawex-hitchens-theme', '~> 0.1.0'
+gem 'cocopo-codes-hitchens-theme', '~> 0.1.0'
 ```
 
 And add the following lines to your Jekyll site's `_config.yml`:
